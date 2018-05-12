@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '9563'
     url: http://www.gutenberg.org/2009/agents/9563
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20848#An-Elementary-Study-of-Chemistry
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2007-03-18'
 gutenberg_type: Text
